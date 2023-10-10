@@ -3,6 +3,7 @@
     <style name="Base.Theme.SmartphoneApp" parent="Theme.Material3.DayNight">
         <!-- Customize your dark theme here. -->
         <item name="iconTint">@android:color/white</item>
+        <item name="colorPrimary">@color/orange</item>
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>
 </resources>

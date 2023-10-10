@@ -1,10 +1,14 @@
 package com.example.smartphoneapp
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.MenuItem
+import android.view.View
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.core.app.ShareCompat
+import androidx.core.view.MenuItemCompat
 import com.bumptech.glide.Glide
 
 class DetailActivity : AppCompatActivity() {
@@ -27,7 +31,6 @@ class DetailActivity : AppCompatActivity() {
         val foodImage = findViewById<ImageView>(R.id.foodImage)
         val foodName = findViewById<TextView>(R.id.foodName)
         val foodDescription = findViewById<TextView>(R.id.foodDescription)
-        //Log.d("DetailActivity", "Name: $name, Description: $description, Image URL: $imageUrl")
 
         // Mengecek apakah imageUrl tidak null dan tidak kosong
         if (!imageUrl.isNullOrEmpty()) {
@@ -39,6 +42,8 @@ class DetailActivity : AppCompatActivity() {
 
         foodName.text = name
         foodDescription.text = imageUrl
+
+
     }
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
