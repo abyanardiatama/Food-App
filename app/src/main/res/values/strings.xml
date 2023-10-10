@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="user_name">Abyan Ardiatama</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="deskripsi_makanan">Deskripsi Makanan yang sangat lezat dan menggugah selera.</string>
+    <string-array name="data_name">
+        <item>Nasi Goreng</item>
+        <item>Rendang</item>
+        <item>Sate Ayam</item>
+        <item>Gado-Gado</item>
+        <item>Nasi Padang</item>
+        <item>Mie Goreng</item>
+        <item>Soto Ayam</item>
+        <item>Nasi Uduk</item>
+        <item>Pempek</item>
+        <item>Ayam Bakar</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Nasi goreng adalah hidangan nasi yang digoreng dengan bumbu-bumbu khas Indonesia seperti kecap manis, bawang merah, bawang putih, dan cabai. Biasanya disajikan dengan telur mata sapi dan kerupuk. </item>
+        <item>Rendang adalah masakan daging yang dimasak dengan santan dan rempah-rempah kaya rasa. Hidangan ini berasal dari Minangkabau, Sumatera Barat, dan memiliki rasa pedas dan gurih yang lezat.</item>
+        <item>Sate ayam adalah potongan daging ayam yang ditusuk dengan tusukan bambu dan kemudian dipanggang dengan bumbu kacang. Ini adalah salah satu makanan penutup yang paling populer di Indonesia.</item>
+        <item>Gado-gado adalah salad sayuran segar yang disajikan dengan saus kacang yang kaya rasa. Biasanya, gado-gado juga dihiasi dengan telur rebus dan kerupuk.</item>
+        <item>Nasi Padang adalah hidangan nasi yang disajikan dengan berbagai macam lauk seperti rendang, sate, gulai, dan sayuran. Ini adalah makanan khas dari Padang, Sumatera Barat.</item>
+        <item>Mie goreng adalah mie yang digoreng dengan berbagai bumbu dan biasanya dicampur dengan sayuran, telur, dan daging ayam atau udang.</item>
+        <item>Soto ayam adalah sup ayam dengan kuah kaldu kuning yang kaya rempah-rempah, biasanya disajikan dengan mie, taoge, dan daun seledri.</item>
+        <item>Nasi uduk adalah nasi yang dimasak dengan santan dan rempah-rempah, biasanya disajikan dengan telur, tempe, dan sambal.</item>
+        <item>Pempek adalah makanan khas Palembang yang terbuat dari ikan tenggiri yang dicampur dengan tepung sagu. Makanan ini biasanya disajikan dengan saus cuko.</item>
+        <item>Ayam Bakar adalah salah satu makanan Indonesia yang nikmat dan sering menjadi pilihan dalam acara-acara makan bersama keluarga atau teman-teman.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://source.unsplash.com/480x720/?fried-rice</item>
+        <item>https://source.unsplash.com/480x720/?rendang</item>
+        <item>https://source.unsplash.com/480x720/?sate_ayam</item>
+        <item>https://source.unsplash.com/480x720/?gado-gado</item>
+        <item>https://source.unsplash.com/480x720/?nasi_padang</item>
+        <item>https://source.unsplash.com/480x720/?mie_goreng</item>
+        <item>https://source.unsplash.com/480x720/?chicken-soup</item>
+        <item>https://source.unsplash.com/480x720/?nasi-lemak</item>
+        <item>https://source.unsplash.com/480x720/?fish-and-chips</item>
+        <item>https://source.unsplash.com/480x720/?grilled-chicken</item>
+    </string-array>
+
+</resources>
